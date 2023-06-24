@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Full Stack Developer**
 
-- 💬 Ask me about **Reactjs, Nextjs, React Native, ElectronJs... **
+- 💬 Ask me about **Reactjs, Nextjs, React Native, ElectronJs...**
 
 - 📫 How to reach me **devvishjay@gmail.com**
 
